@@ -1,4 +1,5 @@
 pipeline{
+    agent none
     stages {
         
         stage('1 - Build'){
